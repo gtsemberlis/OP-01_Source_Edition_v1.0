@@ -58,7 +58,3 @@ Substantive creative redesign is reserved for a future major edition.
 ## Display Order
 
 2
-
-## Renderer Notes (Optional)
-
-> **Population status:** Optional renderer guidance not yet assigned. No canonical content has been invented in this placeholder.

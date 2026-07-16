@@ -8,7 +8,7 @@ schema_version: "1.0"
 content_version: "1.0"
 publication_status: "Canonical"
 last_revised: "2026-07-16"
-revision_note: "Source Edition repository migration"
+revision_note: "Final repository normalization"
 source_path: "publication/FM-RELEASE-canonical-release-declaration.md"
 tags: []
 related_objects: []
@@ -44,7 +44,3 @@ Operation Airspace serves as the reference implementation for subsequent Operati
 ## Display Order
 
 3
-
-## Renderer Notes (Optional)
-
-> **Population status:** Optional renderer guidance not yet assigned. No canonical content has been invented in this placeholder.

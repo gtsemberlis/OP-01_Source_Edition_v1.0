@@ -1,86 +1,102 @@
 ---
-object_uuid: "befb0a2f-2cd9-53b2-bf38-d6f2b9cf347a"
-canonical_reference: "S-01"
-object_type: "Scene"
-title: "Cold Open: O'Hare"
-publication: "OP-01"
-schema_version: "1.0"
-content_version: "1.0"
-publication_status: "Draft"
-last_revised: "2026-07-16"
-revision_note: "Source Edition repository migration"
-source_path: "scenes/S-01-cold-open-o-hare.md"
+object_uuid: befb0a2f-2cd9-53b2-bf38-d6f2b9cf347a
+canonical_reference: S-01
+object_type: Scene
+title: 'Cold Open: O''Hare Hard Landing'
+publication: OP-01
+schema_version: '1.0'
+content_version: '1.0'
+publication_status: Canonical
+last_revised: '2026-07-16'
+revision_note: Final repository normalization and canonical scene population
+source_path: scenes/S-01-cold-open-o-hare.md
 tags: []
-related_objects: []
+related_objects:
+- L-01
+- N-06
+- N-07
+- N-08
+- H-02
+- S-02
 ---
 
-# S-01 — Cold Open: O'Hare
+# S-01 — Cold Open: O'Hare Hard Landing
 
 ## Chapter
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Chapter 1 — Initiating Incident
 
 ## Scene Summary
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+A commercial flight makes a violent hard landing at O'Hare after its crew responds to a verified runway-obstruction warning that no human observer can explain.
 
 ## Scene Purpose
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Establish the human cost, the institutional stakes, and the central contradiction: independent systems agreed that something occupied the runway.
 
 ## Primary Location(s)
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+L-01 — Chicago O'Hare International Airport
 
 ## Participants
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+N-06 Karen Delgado; N-07 Mark Reynolds; N-08 Emily Chen; airport and airline personnel
 
 ## Estimated Runtime
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+20–35 minutes
 
 ## Investigation Phase
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Verification
 
 ## Scene Flow
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+1. Present the immediate aftermath without revealing the phenomenon.
+2. Allow investigators to review the aircraft, runway response, preliminary reports, and surviving crew accounts.
+3. Establish that the warning was neither a single-sensor error nor ordinary pilot confusion.
+4. Transition to the Program briefing and the Alexandria connection.
 
 ## Key Information
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+- The aircraft received a credible runway-obstruction warning during final approach.
+- The obstruction was corroborated across systems expected to fail independently.
+- The evasive response caused the hard landing, injuries, and fatalities.
+- No physical debris, vehicle, animal, or conventional obstruction was recovered.
 
 ## Evidence Available
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+H-02 — O'Hare Incident Summary
 
 ## Likely Investigator Approaches
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Scene reconstruction, aviation-record review, interviews, sensor-log comparison, and institutional liaison work.
 
 ## GM Guidance
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Keep the scene procedural and humane. The incident is frightening because competent people reacted reasonably to evidence that should not exist.
 
 ## Before Leaving This Scene
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Investigators should understand that the event is real, consequential, and linked to Alexandria's sensor-fusion platform.
 
 ## Quick Reference
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Primary clue: independent corroboration. Main transition: Program briefing and Alexandria review.
 
 ## Related Objects
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+- L-01
+- N-06
+- N-07
+- N-08
+- H-02
+- S-02
 
 ## Prerequisites (Optional)
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+None.
 
 ## Variant Paths (Optional)
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
-
+The operation may begin after the emergency response, during NTSB intake, or with a short narrated reconstruction.

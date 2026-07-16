@@ -1,86 +1,102 @@
 ---
-object_uuid: "639a7360-4977-55b7-b974-a50ae0a4239a"
-canonical_reference: "S-05"
-object_type: "Scene"
-title: "Independent Analysis"
-publication: "OP-01"
-schema_version: "1.0"
-content_version: "1.0"
-publication_status: "Draft"
-last_revised: "2026-07-16"
-revision_note: "Source Edition repository migration"
-source_path: "scenes/S-05-independent-analysis.md"
+object_uuid: 639a7360-4977-55b7-b974-a50ae0a4239a
+canonical_reference: S-05
+object_type: Scene
+title: Dr. Rao and Independent Analysis
+publication: OP-01
+schema_version: '1.0'
+content_version: '1.0'
+publication_status: Canonical
+last_revised: '2026-07-16'
+revision_note: Final repository normalization and canonical scene population
+source_path: scenes/S-05-independent-analysis.md
 tags: []
-related_objects: []
+related_objects:
+- L-03
+- N-03
+- H-05
+- S-04
+- S-06
+- S-07
 ---
 
-# S-05 — Independent Analysis
+# S-05 — Dr. Rao and Independent Analysis
 
 ## Chapter
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Chapter 3 — Escalation
 
 ## Scene Summary
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Rao shares the private research that has carried her beyond Alexandria's official conclusions and reveals the personal cost of sustained exposure.
 
 ## Scene Purpose
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Humanize the discovery, establish the scientific model, and set up Rao's later unauthorized action.
 
 ## Primary Location(s)
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+L-03 — Dr. Rao's Office
 
 ## Participants
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+N-03 Dr. Ananya Rao
 
 ## Estimated Runtime
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+35–60 minutes
 
 ## Investigation Phase
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Interpretation
 
 ## Scene Flow
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+1. Rao explains how she separated the anomaly from model behavior.
+2. She shows notebooks containing sketches, comparisons, and speculative biological language.
+3. Investigators notice obsession, sleep loss, and perceptual fixation without incoherence.
+4. Their treatment of Rao determines whether she later trusts them with her notes.
 
 ## Key Information
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+- Rao believes the system is detecting living organisms outside normal human perception.
+- Large runway forms and smaller plankton-like forms may be part of the same ecology.
+- The technology may make biological observers fractionally more capable of sensing the organisms.
+- Rao has begun to perceive traces without looking directly at processed output.
 
 ## Evidence Available
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+H-05 — Dr. Rao's Research Notebook
 
 ## Likely Investigator Approaches
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Rapport, scientific peer review, mental-health assessment, notebook analysis, and observation.
 
 ## GM Guidance
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Rao is rational, frightened, and obsessed—not a prophetic mad scientist. Her conclusions should be testable even when incomplete.
 
 ## Before Leaving This Scene
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Investigators should possess or know how to obtain Rao's research and understand why she may break protocol.
 
 ## Quick Reference
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Core model: harmless life, newly observable, perception itself may have consequences.
 
 ## Related Objects
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+- L-03
+- N-03
+- H-05
+- S-04
+- S-06
+- S-07
 
 ## Prerequisites (Optional)
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+S-03 or S-04.
 
 ## Variant Paths (Optional)
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
-
+Rao may surrender copies voluntarily, after rapport, or only after the Collector incident.

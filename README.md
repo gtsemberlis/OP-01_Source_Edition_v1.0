@@ -4,7 +4,7 @@ This directory is the canonical Markdown repository for **Operation Airspace**.
 
 - Edit canonical content here; regenerate derived publications afterward.
 - Each canonical object has one file, a stable reference, and an immutable UUID.
-- Files marked `Draft` are schema-complete placeholders awaiting canonical population.
+- Files marked `Draft` are schema-complete source objects awaiting canonical population.
 - `publication/` contains the migrated Phase 1 publication and front-matter objects.
 - `assets/` is reserved for referenced images and production assets.
 

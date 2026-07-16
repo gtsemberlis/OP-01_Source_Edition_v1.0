@@ -1,86 +1,104 @@
 ---
-object_uuid: "f4a2b200-edcd-5245-ac96-e306957c2e43"
-canonical_reference: "S-08"
-object_type: "Scene"
-title: "Runway Observation"
-publication: "OP-01"
-schema_version: "1.0"
-content_version: "1.0"
-publication_status: "Draft"
-last_revised: "2026-07-16"
-revision_note: "Source Edition repository migration"
-source_path: "scenes/S-08-runway-observation.md"
+object_uuid: f4a2b200-edcd-5245-ac96-e306957c2e43
+canonical_reference: S-08
+object_type: Scene
+title: Runway Observation
+publication: OP-01
+schema_version: '1.0'
+content_version: '1.0'
+publication_status: Canonical
+last_revised: '2026-07-16'
+revision_note: Final repository normalization and canonical scene population
+source_path: scenes/S-08-runway-observation.md
 tags: []
-related_objects: []
+related_objects:
+- L-01
+- N-03
+- N-04
+- N-06
+- H-08
+- S-07
+- S-09
 ---
 
 # S-08 — Runway Observation
 
 ## Chapter
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Chapter 5 — Direct Observation
 
 ## Scene Summary
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Investigators authorize or conduct a controlled Alexandria test that produces direct multi-modal confirmation of the large runway organism and its surrounding ecology.
 
 ## Scene Purpose
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Deliver the operation's experiential climax and answer whether the phenomenon is real and immediately hostile.
 
 ## Primary Location(s)
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+L-01 — Chicago O'Hare International Airport or controlled airfield
 
 ## Participants
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+N-03 Dr. Ananya Rao; N-04 Kevin Park; N-06 Karen Delgado; investigators
 
 ## Estimated Runtime
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+45–75 minutes
 
 ## Investigation Phase
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Controlled Verification
 
 ## Scene Flow
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+1. Define safety controls and abort conditions.
+2. Activate the Alexandria system and compare live modalities.
+3. The large manta-like form resolves across instrumentation while smaller forms move around it.
+4. Human observers may experience partial biological perception, followed by a dangerous but avoidable operational moment.
 
 ## Key Information
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+- The phenomenon is physical enough to interact with multiple sensor modalities.
+- The large organism does not attack and appears indifferent to aircraft and humans.
+- Smaller organisms cluster or drift around active observation zones.
+- Observation may increase biological awareness without granting reliable normal sight.
 
 ## Evidence Available
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+H-08 — Alexandria Runway Observation Record
 
 ## Likely Investigator Approaches
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Experimental design, aviation coordination, technical monitoring, risk management, and direct observation.
 
 ## GM Guidance
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Reveal enough to confirm, not enough to domesticate the mystery. The organisms are harmless; human systems create the danger.
 
 ## Before Leaving This Scene
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Investigators should be able to assess threat, containment, and Alexandria's future.
 
 ## Quick Reference
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Truth: a living invisible ecology exists. Hazard: perception and institutional response.
 
 ## Related Objects
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+- L-01
+- N-03
+- N-04
+- N-06
+- H-08
+- S-07
+- S-09
 
 ## Prerequisites (Optional)
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Technical verification and an acceptable safety plan.
 
 ## Variant Paths (Optional)
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
-
+The test may be refused; investigators can instead rely on accumulated evidence and historical comparison.

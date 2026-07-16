@@ -1,86 +1,100 @@
 ---
-object_uuid: "0fbe54b4-3641-5839-b10d-2ccd40546397"
-canonical_reference: "S-09"
-object_type: "Scene"
-title: "Inheritance"
-publication: "OP-01"
-schema_version: "1.0"
-content_version: "1.0"
-publication_status: "Draft"
-last_revised: "2026-07-16"
-revision_note: "Source Edition repository migration"
-source_path: "scenes/S-09-inheritance.md"
+object_uuid: 0fbe54b4-3641-5839-b10d-2ccd40546397
+canonical_reference: S-09
+object_type: Scene
+title: Comparative Assessment and Debrief
+publication: OP-01
+schema_version: '1.0'
+content_version: '1.0'
+publication_status: Canonical
+last_revised: '2026-07-16'
+revision_note: Final repository normalization and canonical scene population
+source_path: scenes/S-09-inheritance.md
 tags: []
-related_objects: []
+related_objects:
+- L-05
+- N-01
+- N-03
+- H-09
+- S-08
 ---
 
-# S-09 — Inheritance
+# S-09 — Comparative Assessment and Debrief
 
 ## Chapter
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Chapter 6 — Resolution
 
 ## Scene Summary
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+The investigators compare the operation to incomplete Program precedents, decide Alexandria's disposition, and define what the Program inherits from the discovery.
 
 ## Scene Purpose
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Turn revelation into an ethical and institutional decision rather than a monster-ending.
 
 ## Primary Location(s)
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+L-05 — Program Secure Briefing Facility
 
 ## Participants
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+N-01 Michael Havel; investigators; optional N-03 Dr. Ananya Rao
 
 ## Estimated Runtime
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+30–60 minutes
 
 ## Investigation Phase
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Assessment and Containment
 
 ## Scene Flow
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+1. Review the verified evidence and unresolved risks.
+2. Havel provides a comparative file showing earlier independent-confirmation cases.
+3. Investigators recommend shutdown, controlled continuation, concealment, protection, or a mixed protocol.
+4. Record consequences for Rao, Alexandria, the Collectors, and future operations.
 
 ## Key Information
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+- The Program has encountered adjacent patterns but not a complete explanation.
+- No evidence proves the organisms are hostile.
+- Alexandria's technology can reveal them and may alter human or animal perception.
+- Containment is primarily informational, procedural, and institutional.
 
 ## Evidence Available
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+H-09 — Comparative Case File
 
 ## Likely Investigator Approaches
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Bureaucracy, Persuade, scientific argument, risk assessment, and operational judgment.
 
 ## GM Guidance
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Treat the decision as genuinely open. Each option protects something and endangers something else.
 
 ## Before Leaving This Scene
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+The operation ends when the investigators make and communicate a defensible recommendation.
 
 ## Quick Reference
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Possible outcomes: shutdown, controlled continuation, covert Program stewardship, or unresolved compromise.
 
 ## Related Objects
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+- L-05
+- N-01
+- N-03
+- H-09
+- S-08
 
 ## Prerequisites (Optional)
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
+Enough evidence to answer the briefing objectives.
 
 ## Variant Paths (Optional)
 
-> **Population status:** Pending canonical population. No canonical content has been invented in this placeholder.
-
+The experimental test is optional. A cautious team may reach a decision without direct biological perception.

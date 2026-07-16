@@ -92,7 +92,3 @@ All revisions originate in the Source Edition.
 ## Display Order
 
 7
-
-## Renderer Notes (Optional)
-
-> **Population status:** Optional renderer guidance not yet assigned. No canonical content has been invented in this placeholder.

@@ -80,7 +80,3 @@ Run the world honestly. Trust the investigators. Allow the story to emerge.
 ## Display Order
 
 5
-
-## Renderer Notes (Optional)
-
-> **Population status:** Optional renderer guidance not yet assigned. No canonical content has been invented in this placeholder.
